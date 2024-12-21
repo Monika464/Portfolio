@@ -19,7 +19,7 @@ const Navbar = () => {
       <NavLink to="/" className="flex items-center">
         <img src={logo} alt="Logo" className="h-10 w-10" />
         <span className="title ml-2 text-lg">
-          FullStack Developer Portfolio
+          Monika Kubianka FullStack Node/React Developer
         </span>
       </NavLink>
 
