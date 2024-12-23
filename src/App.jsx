@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import AboutMe from "./pages/AboutMe";
 import Contact from "./pages/Contact";
 import Navbar from "./components/Navbar";
+import Footer from "./components/Footer";
 
 import "./App.css";
 
@@ -19,6 +20,7 @@ function App() {
             <Route path="/contact" element={<Contact />} />
           </Routes>
         </div>
+        <Footer />
       </BrowserRouter>
     </div>
   );
