@@ -63,18 +63,18 @@ const Home = () => {
         <div className="w-full sm:w-1/2 bg-gray-100 items-center justify-center h-96 p-4">
           <div className="w-full max-w-md border border-gray-300 rounded-lg shadow-md p-4 mt-8 bg-white">
             <h3 className="text-xl font-bold text-gray-800 p-2">
-              {textContent[1].title}
+              {textContent[2].title}
             </h3>
             <p className="text-justify text-gray-700 p-2">
-              {textContent[1].body}
+              {textContent[2].body}
             </p>
 
             <p className="text-base font-semibold text-gray-500 p-2">
-              Technology: {textContent[1].tech}
+              Technology: {textContent[2].tech}
             </p>
             <p className="text-sm font-semibold text-blue-500 hover:underline p-2">
               <a
-                href="https://github.com/Monika464/Club-Management-App"
+                href="https://github.com/Monika464/ClubsRegister"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -102,18 +102,18 @@ const Home = () => {
         <div className="w-full sm:w-1/2 bg-gray-100 items-center justify-center h-96 p-4">
           <div className="w-full max-w-md border border-gray-300 rounded-lg shadow-md p-4 mt-8 bg-white">
             <h3 className="text-xl font-bold text-gray-800 p-2">
-              {textContent[1].title}
+              {textContent[3].title}
             </h3>
             <p className="text-justify text-gray-700 p-2">
-              {textContent[1].body}
+              {textContent[3].body}
             </p>
 
             <p className="text-base font-semibold text-gray-500 p-2">
-              Technology: {textContent[1].tech}
+              Technology: {textContent[3].tech}
             </p>
             <p className="text-sm font-semibold text-blue-500 hover:underline p-2">
               <a
-                href="https://github.com/Monika464/Club-Management-App"
+                href="https://github.com/Monika464/Bookkeeping"
                 target="_blank"
                 rel="noopener noreferrer"
               >
@@ -141,18 +141,18 @@ const Home = () => {
         <div className="w-full sm:w-1/2 bg-gray-100 items-center justify-center h-96 p-4">
           <div className="w-full max-w-md border border-gray-300 rounded-lg shadow-md p-4 mt-8 bg-white">
             <h3 className="text-xl font-bold text-gray-800 p-2">
-              {textContent[1].title}
+              {textContent[4].title}
             </h3>
             <p className="text-justify text-gray-700 p-2">
-              {textContent[1].body}
+              {textContent[4].body}
             </p>
 
             <p className="text-base font-semibold text-gray-500 p-2">
-              Technology: {textContent[1].tech}
+              Technology: {textContent[4].tech}
             </p>
             <p className="text-sm font-semibold text-blue-500 hover:underline p-2">
               <a
-                href="https://github.com/Monika464/Club-Management-App"
+                href="https://github.com/Monika464/navigator2--2022"
                 target="_blank"
                 rel="noopener noreferrer"
               >
