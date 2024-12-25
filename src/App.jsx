@@ -11,7 +11,7 @@ import "./App.css";
 function App() {
   return (
     <div className="h-screen py-3 px-3">
-      <BrowserRouter>
+      <BrowserRouter basename="/Portfolio">
         <Navbar />
         <div className="mt-8 ">
           <Routes>
