@@ -43,7 +43,7 @@ npm install
 
 | Tech             | Use                                        |
 | ---------------- | ------------------------------------------ |
-| React            | A library for building user interfaces.    |
+| React            | A library for building user interfaces     |
 | React Router DOM | Declarative routing for React applications |
 | React Icons      | Icons for React                            |
 | Vite             | A modern front-end build tool              |
