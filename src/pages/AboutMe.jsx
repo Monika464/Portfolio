@@ -1,5 +1,5 @@
 import React from "react";
-import photo from "../assets/moje-foto.png";
+import photo from "../assets/moje-foto2.png";
 
 const AboutMe = () => {
   return (
@@ -10,16 +10,14 @@ const AboutMe = () => {
         <img src={photo} className="w-20"></img>
 
         <p className="text-gray-700 leading-relaxed mt-3">
-          Hi, I’m Monika. I’ve been programming for several years, primarily in
-          the field of web applications. My experience includes around two years
-          of working with React and TypeScript, as well as utilizing Firebase.
-          Recently, I’ve been focusing on expanding my skills in Node.js and
-          Next.js. I aim to specialize in backend development, though I’m open
-          to working on full-stack applications with React or Next.js. I’m
-          seeking a team or project where I can grow as a backend developer
-          while contributing to cohesive, full-stack solutions when needed.
-          Clear goals, healthy communication, and a collaborative environment
-          that brings satisfaction to all parties are essential to me.
+         Hi, I'm Monika!
+I'm a Full Stack Developer with several years of experience in web development, working primarily with JavaScript and TypeScript.
+My main technologies include React, Node.js, Express, MongoDB, and TypeScript. I enjoy designing and building complete web applications, from responsive user interfaces to backend APIs, database structures, authentication systems, and integrations with external services.
+My most recent project, WandalMT, has allowed me to deepen my experience in full-stack development, including JWT authentication, payment processing with Stripe, cloud storage integration, and backend architecture.
+While I enjoy working across the entire application stack, I'm particularly interested in backend development, application security, and designing scalable, maintainable systems.
+I'm also exploring emerging technologies, particularly AI-powered applications and workflow automation, and developing my familiarity with tools such as Flowise and Docker.
+Beyond technology, I value independent problem-solving, continuous learning, and thoughtful software design. I believe that successful projects depend not only on technical skills but also on clear communication, well-defined goals, and effective collaboration.
+I'm open to remote opportunities and interesting projects where I can contribute my experience, continue developing my skills, and work with people who value quality, creativity, and a collaborative approach.
         </p>
       </div>
     </div>
